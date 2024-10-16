@@ -1,0 +1,53 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.body{
+    background-color: rgb(255, 236, 255);
+}
+.logo {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.tienda {
+    margin-top: 40px;
+    margin-left: 650px;
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.titulo {
+    display: inline-flex;
+    font-size: 50px;
+}
+
+.nav-item {
+    margin: 40px 10px;
+}
+
+.titulo3{
+    font-size: 50px;
+    text-decoration: underline;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.div1{
+    width: 80%;
+    text-align:center ;
+    border: 5px double rgba(0, 0, 0, 0.308);
+    padding: 15px;
+    border-radius: 30px;
+    background-color: rgb(222, 209, 243);
+    text-align: justify;
+}
+
+.segundo-div{
+    text-align: justify;
+    border: 5px double rgba(0, 0, 0, 0.308);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-flex;
+    width: 75%;
+    background-color: rgb(205, 231, 238);
+    
+}

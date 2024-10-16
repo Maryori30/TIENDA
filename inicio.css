@@ -1,0 +1,77 @@
+.body{
+    background-color: rgb(255, 236, 255);
+}
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.logo {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.tienda {
+    margin-top: 40px;
+    margin-left: 650px;
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.titulo {
+    display: inline-flex;
+    font-size: 50px;
+}
+
+.nav-item {
+    margin: 40px 10px;
+}
+
+.primera-div {
+    text-align: justify;
+    margin: 40px 40px;
+}
+
+.segundo-div {
+    text-align: justify;
+    border: 3px black double;
+    margin: 40px 40px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    width: 75%;
+    background-color: rgb(194, 182, 214);
+
+}
+
+.nl {
+    text-align: center;
+    font-size: 50px;
+}
+
+.img2 {
+    margin: auto;
+    padding: 18px;
+
+
+}
+
+.card {
+    margin: 43.5px;
+    display: inline-block;
+
+}
+
+.card-img-top {
+    height: 300px;
+    width: 285px;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.card-title {
+    text-align: center;
+}
+

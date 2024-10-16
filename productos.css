@@ -1,0 +1,27 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.body{
+    background-color: rgb(255, 236, 255);
+}
+.logo {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.tienda {
+    margin-top: 40px;
+    margin-left: 650px;
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.titulo {
+    display: inline-flex;
+    font-size: 50px;
+}
+
+.nav-item {
+    margin: 40px 10px;
+}
+

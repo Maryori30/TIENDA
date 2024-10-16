@@ -1,0 +1,81 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.body{
+    background-color: rgb(255, 236, 255);
+}
+.logo {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.tienda {
+    margin-top:40px;
+    margin-left: 650px;
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.titulo {
+    display: inline-flex;
+    font-size: 50px;
+}
+
+.nav-item {
+    margin: 40px 10px;
+}
+.accordion-item{
+    width: 70%;
+    margin: 15px 25px;
+    
+}
+
+.img1{
+   float: inline-end;
+   box-shadow: 7px 7px 10px  rgb(114, 221, 100) ;
+   margin: 5px 30px;
+}
+.img2{
+    float: inline-end;
+    box-shadow: 7px 7px 10px  rgb(160, 120, 224) ;
+    margin: 5px 30px;
+ }
+ .img3{
+    float: inline-end;
+    box-shadow: 7px 7px 10px  rgb(235, 235, 27) ;
+    margin: 5px 30px;
+ }
+ .img4{
+    float: inline-end;
+    box-shadow: 7px 7px 10px  rgb(192, 18, 27) ;
+    margin: 5px 30px;
+ }
+ .img5{
+    float: inline-end;
+    box-shadow: 7px 7px 10px  rgb(42, 131, 47) ;
+    margin: 5px 30px;
+ }
+ .img6{
+    float: inline-end;
+    box-shadow: 7px 7px 10px  yellow ;
+    margin: 5px 30px;
+ }
+ .img7{
+    float: inline-end;
+    box-shadow: 7px 7px 10px  rgb(203, 95, 212) ;
+    margin: 5px 30px;
+ }
+ .img8{
+    float: inline-end;
+    box-shadow: 7px 7px 10px  rgb(95, 132, 212) ;
+    margin: 5px 30px;
+ }
+.accordion-collapse{
+    text-align: justify;
+}
+
+.pf{
+    font-size: 50px;
+    text-decoration: underline;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

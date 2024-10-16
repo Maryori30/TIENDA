@@ -1,0 +1,29 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.body{
+    background-color: rgb(240, 187, 240);
+}
+.card {
+    height: 350px;
+    width: 250px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+
+.button {
+    border-radius: 10px;
+    background-color: rgb(174, 174, 241);
+    border: rgb(174, 174, 241);
+    padding: 5px 10px;
+}
+
+.nl{
+    font-size: 60px;
+}
+
+.card-text{
+   text-align: justify;
+}
